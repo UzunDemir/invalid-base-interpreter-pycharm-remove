@@ -16,3 +16,19 @@ invalid base interpreter pycharm remove
 Единственное что нашел было это 
 
 https://youtrack.jetbrains.com/issue/PY-47255/Unable-to-remove-invalid-python-interpreters
+
+но это мне тоже не помогло, разобраться в этом не смог.
+
+Залез в документацию PyCharm и нашел вот это
+
+https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html#modify_interpreter
+
+Ctrl+Alt+S 
+
+Нажмите Ctrl+Alt+S, чтобы открыть настройки IDE, и выберите Project <имя проекта> | Интерпретатор Python .
+
+Разверните список доступных интерпретаторов и щелкните ссылку Показать все .
+
+Показать все доступные интерпретаторы
+
+https://resources.jetbrains.com/help/img/idea/2022.3/py_interpreter_dialog_show_all_TA.png

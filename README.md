@@ -27,13 +27,17 @@ Ctrl+Alt+S
 
 Нажмите Ctrl+Alt+S, чтобы открыть настройки IDE, и выберите Project <имя проекта> | Интерпретатор Python .
 
+![image](https://github.com/UzunDemir/invalid-base-interpreter-pycharm-remove/blob/main/screenshot%2011_01_23_1.png)
+
 Разверните список доступных интерпретаторов и щелкните ссылку Показать все .
+
+![image](https://github.com/UzunDemir/invalid-base-interpreter-pycharm-remove/blob/main/screenshot%2011_01_23_2.png)
 
 Показать все доступные интерпретаторы
 
-![image](https://github.com/UzunDemir/invalid-base-interpreter-pycharm-remove/blob/main/screenshot%2011_01_23_1.png)
 
-![image](https://github.com/UzunDemir/invalid-base-interpreter-pycharm-remove/blob/main/screenshot%2011_01_23_2.png)
+
+
 
 ![image](https://github.com/UzunDemir/invalid-base-interpreter-pycharm-remove/blob/main/screenshot%2011_01_23_3.png)
 

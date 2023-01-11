@@ -1,5 +1,5 @@
 # invalid-base-interpreter-pycharm-remove
-invalid base interpreter pycharm remove
+invalid base interpreter pycharm remove invalid base interpreter pycharm как удалить 
 
 Вот такая проблема случилась, для ее решения потратил кучу времени.
 
@@ -49,4 +49,4 @@ Ctrl+Alt+S
 
 ![image](https://github.com/UzunDemir/invalid-base-interpreter-pycharm-remove/blob/main/screenshot%2011_01_23_5.png)
 
-Ура! Все получилось!
+Ура! Все получилось! Все инвалиды пропали!

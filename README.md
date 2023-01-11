@@ -31,4 +31,4 @@ Ctrl+Alt+S
 
 Показать все доступные интерпретаторы
 
-[image](https://resources.jetbrains.com/help/img/idea/2022.3/py_interpreter_dialog_show_all_TA.png)
+[image](https://github.com/UzunDemir/invalid-base-interpreter-pycharm-remove/blob/main/screenshot%2011_01_23_1.png)

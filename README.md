@@ -41,6 +41,12 @@ Ctrl+Alt+S
 
 ![image](https://github.com/UzunDemir/invalid-base-interpreter-pycharm-remove/blob/main/screenshot%2011_01_23_3.png)
 
+Нажимаем на мину и все ненужное удаляем
+
 ![image](https://github.com/UzunDemir/invalid-base-interpreter-pycharm-remove/blob/main/screenshot%2011_01_23_4.png)
 
+Перезапускаем PyCharm
+
 ![image](https://github.com/UzunDemir/invalid-base-interpreter-pycharm-remove/blob/main/screenshot%2011_01_23_5.png)
+
+Ура! Все получилось!
